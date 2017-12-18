@@ -1,0 +1,21 @@
+{
+  "name": "fetchblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/async": "^2.0.45",
+    "@types/es6-promise": "0.0.33",
+    "@types/node": "^8.0.58",
+    "@types/node-fetch": "^1.6.7",
+    "async": "^2.6.0",
+    "html-entities": "^1.2.1",
+    "node-fetch": "^1.7.3",
+    "shorthash": "0.0.2"
+  }
+}
